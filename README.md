@@ -1,3 +1,3 @@
 # new project 
-this project was created from local system
-created by akshay kumar
+this project was created from local system.
+created by akshay kumar.
